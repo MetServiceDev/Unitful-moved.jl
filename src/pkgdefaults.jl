@@ -178,7 +178,7 @@ const R∞ = 10_973_731.568_508/m     # (65) Rydberg constant
 @unit ac        "ac"       Acre                 (316160658//78125)*m^2  false
 
 # Speed
-@unit kt        "kt"       Knot                 (514444//1000000)*u"m/s" false
+@unit kt        "kt"       Knot                 (514444//1000000)m/s    false
 
 # Temperatures
 @unit °Ra       "°Ra"      Rankine              (5//9)*K                false
