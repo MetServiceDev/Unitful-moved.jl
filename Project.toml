@@ -1,5 +1,6 @@
 name = "Unitful"
 uuid = "0d33724f-09ad-4f2e-85f2-de32bc313153"
+version = "0.0.1"
 
 [deps]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
